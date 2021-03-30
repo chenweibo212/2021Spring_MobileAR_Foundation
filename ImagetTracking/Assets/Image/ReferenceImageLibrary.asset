@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5135407985648337857
+  m_GuidHigh: 18394404028452883333
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5161019569415100018
+      m_GuidHigh: 2301101531254386349
+    m_SerializedTextureGuid:
+      m_GuidLow: 7233202926659531812
+      m_GuidHigh: 8338566277909003066
+    m_Size: {x: 0.1, y: 0.13333334}
+    m_SpecifySize: 1
+    m_Name: hand
+    m_Texture: {fileID: 2800000, guid: 17db74247fbd64613a3bd1a2d989b873, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5175674371601736772
+      m_GuidHigh: 15178491423241464753
+    m_SerializedTextureGuid:
+      m_GuidLow: 9519821210764464795
+      m_GuidHigh: 5685150374542463979
+    m_Size: {x: 0.1, y: 0.11050614}
+    m_SpecifySize: 1
+    m_Name: ice
+    m_Texture: {fileID: 2800000, guid: f8d8529b32f3841deb5348f924b6e54e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4775075090784205494
+      m_GuidHigh: 7244819858245877692
+    m_SerializedTextureGuid:
+      m_GuidLow: 1477511583453457318
+      m_GuidHigh: 1394308231030377003
+    m_Size: {x: 0.1, y: 0.13333334}
+    m_SpecifySize: 1
+    m_Name: map
+    m_Texture: {fileID: 2800000, guid: fb44aba62cf414812b0af8e1f2935913, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4945325133884968918
+      m_GuidHigh: 3431163938172259224
+    m_SerializedTextureGuid:
+      m_GuidLow: 1487227906013218763
+      m_GuidHigh: 5648190013713686729
+    m_Size: {x: 0.1, y: 0.13247354}
+    m_SpecifySize: 1
+    m_Name: usps
+    m_Texture: {fileID: 2800000, guid: 9df747cbb1e614a3c920505fe466624e, type: 3}
